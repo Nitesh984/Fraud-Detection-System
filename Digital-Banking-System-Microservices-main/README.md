@@ -1,7 +1,4 @@
 # Digital Banking System — Microservices
-## Youtube Series: [Full Project: Building Digital Banking System from Scratch](https://youtube.com/@yeshendradhaker)
-## Follow for more: [Yeshendra Dhaker](https://youtube.com/@yeshendradhaker)
----
 
 ## Services Overview
 
