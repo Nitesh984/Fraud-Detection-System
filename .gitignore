@@ -1,0 +1,32 @@
+# ===== Secrets / local config =====
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ===== Maven build output =====
+target/
+!.mvn/wrapper/maven-wrapper.jar
+*.jar
+*.war
+*.class
+
+# ===== IDE =====
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.project
+.classpath
+
+# ===== Logs =====
+*.log
+logs/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini
